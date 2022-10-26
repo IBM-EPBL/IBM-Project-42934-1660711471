@@ -1,8 +1,40 @@
-# IBM-Project-42934-1660711471
-IoT Based Smart Crop Protection System for Agriculture
+<!-- Improved compatibility of back to top link: See: https://github.com/IBM-EPBL/IBM-Project-
+IBM-Project-43114-1660713040 -->
+<a name="readme-top"></a>
+<!--
+*** Thanks for checking out the Best-README-Template. If you have a suggestion
+*** that would make this better, please fork the repo and create a pull request
+*** or simply open an issue with the t  arhhdhgggggvhag "enhancement".
+*** Don't forget to give the project a star!
+*** Thanks again! Now go create something AMAZING! :D
+-->
 
-![IOT  template](https://user-images.githubusercontent.com/111967006/196862001-ab4cc494-7953-4b24-8cd4-77cad4892b15.png)
-#  <img src="https://user-images.githubusercontent.com/111967006/196871853-8fb86cd1-5f82-4ee3-8324-18f869edb5e6.gif" width="70px">IOT BASED SMART CROP PROTECTION SYSTEM
+
+
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+
+
+
+
+<!-- PROJECT LOGO -->
+<br />
+<br />
+<div align="center">
+<img src="https://github.com/Arunprasath2002/Smart-Waste-Management-System-For-Metropolitan-Cities/blob/main/IBM_logo.svg.png" alt="Logo" width="320" height="128" style="max-width: 100%;">
+  </a>
+
+
+  <h1 align="center">IBM-Project-
+IBM-Project-43114-1660713040</h1>
+  
+ 
  
 # <img src="https://user-images.githubusercontent.com/111967006/196880265-211ec703-bceb-4f63-818d-556411b6c687.gif" width="70px">PROJECT DETAILS
 - TECHNOLOGY : IOT        
