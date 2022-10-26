@@ -1,0 +1,46 @@
+CurrencyConverter.java
+package conversionDemo;
+public class CurrencyConverter
+{
+doubleER=0;
+public double DollarToINR(double CurrentExchange)
+{
+ER=CurrentExchange;
+}
+public double DollerToINR(double Dollar)
+{
+doubleINR=0;
+INR=Dollars*ER;
+returnINR;
+}
+public double INRToDollar(double INR)
+{
+doubleDollars=0;
+dollars=INR/ER;
+return Dollars;
+}
+public double EuroToINR(double Euros)
+{
+doubleINR=0;
+INR=Euros*ER;
+return INR;
+}
+public double INRToEuro(double INR)
+{
+dobleEuros=0;
+Euros=INR*ER;
+return Euros;
+}
+public double YenToINR(double Yens)
+{
+doubleINR=0;
+INR=Yens*ER;
+returnINR;
+{
+public doubleINRToYen(double INR)
+{
+double Yens=0;
+Yens=INR/ER;
+return Yens;
+}
+}
