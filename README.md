@@ -20,7 +20,7 @@ IBM-Project-43114-1660713040 -->
 # <img src="https://user-images.githubusercontent.com/111967006/196878301-921cc50a-e625-463e-ba13-1ca5e15d092c.gif" width="70px">TEAM MEMBERS
 
 ```sh
-Team LeadER : Bharathi kannan R S
+Team Leader : Bharathi kannan R S
 Team Member : Surya S 
 Team Member : Ranjith kumar R 
 Team Member : Ahilan M 
