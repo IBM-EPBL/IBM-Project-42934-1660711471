@@ -144,7 +144,7 @@ _For more examples, please refer to the [ideation phase](https://github.com/IBM-
 
 * Proposed Solution, ProblemSolution Fit, Solution Architecture)
 
-See the [project design phase 1](https://github.com/IBM-EPBL/IBM-Project-43114-1660713040/tree/main/PROJECT%20DESIGN%20PHASE%201) for a full list of proposed features (and known design).
+See the [project design phase 1](https://github.com/IBM-EPBL/IBM-Project-42934-1660711471/tree/main/Project%20design%20phase%20-%20I) for a full list of proposed features (and known design).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
