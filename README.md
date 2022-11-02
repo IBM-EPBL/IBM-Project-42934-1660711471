@@ -1,5 +1,5 @@
 # IBM-Project-42934-1660711471
-IoT Based Smart Crop Protection System for Agriculture
+Iod Smart Crop Protection System for Agriculture
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
