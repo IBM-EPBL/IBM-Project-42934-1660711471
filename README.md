@@ -157,7 +157,7 @@ See the [project design phase 1](https://github.com/IBM-EPBL/IBM-Project-42934-1
 Journey, Data Flow Daigrams,
 Technology Architecture)
 
-See the [project design phase 2](https://github.com/IBM-EPBL/IBM-Project-43114-1660713040/tree/main/PROJECT%20DESIGN%20PHASE%202)
+See the [project design phase 2](https://github.com/IBM-EPBL/IBM-Project-42934-1660711471/tree/main/Project%20design%20phase%20-%20II)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
