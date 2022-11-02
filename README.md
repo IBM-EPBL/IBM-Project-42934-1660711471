@@ -115,15 +115,10 @@ An intelligent crop protection system helps the farmers in protecting the crop f
 
 
 
-<!-- GETTING STARTED -->
-## preparation phase
+<!-- GETTING STARTED -
 
-* (Prerequisites, Registrations,
-Environment Set-up, etc.)
 
-_For more information, please refer to the [preparation phase](https://github.com/IBM-EPBL/IBM-Project-43114-1660713040/tree/main/preparation%20phase)_
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- USAGE EXAMPLES -->
