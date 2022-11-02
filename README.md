@@ -164,7 +164,7 @@ See the [project design phase 2](https://github.com/IBM-EPBL/IBM-Project-42934-1
 * (Milestones & Tasks, Sprint
 Schedules )
 
- [project planning phase]([https://github.com/IBM-EPBL/IBM-Project-43114-1660713040/tree/main/project%20planning%20phase](https://github.com/IBM-EPBL/IBM-Project-42934-1660711471/tree/main/Project%20planning%20phase))
+ [project planning phase](https://github.com/IBM-EPBL/IBM-Project-42934-1660711471/tree/main/Project%20planning%20phase))
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
