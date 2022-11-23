@@ -27,10 +27,10 @@ Python,IOT Cloud Platform ,IBM Cloud,Node- RED,IBM IoT Platform,IBM Nodered,IBM 
   </video>
 
     <br />
-  </video>
+  
 
 
 
 
     
-    https://user-images.githubusercontent.com/114861292/203520165-2cc5bf1a-e532-4b33-adf7-1e350206cf3b.mp4
+    
