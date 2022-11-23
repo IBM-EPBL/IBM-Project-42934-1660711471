@@ -16,7 +16,7 @@ Python,IOT Cloud Platform ,IBM Cloud,Node- RED,IBM IoT Platform,IBM Nodered,IBM 
   
 </ul>
 
-<h2><em><strong>Demo Videos are given below:</strong></em></h2>
+<h2><em><strong>Demo Video is given below:</strong></em></h2>
 
 
   <video src="https://user-images.githubusercontent.com/114861292/203553685-a1b65b69-5534-44c7-8cbc-e86cee7903b2.mp4" data-canonical-src="(https://user-images.githubusercontent.com/114861292/203553685-a1b65b69-5534-44c7-8cbc-e86cee7903b2.mp4)" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px;">
